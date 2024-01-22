@@ -30,11 +30,11 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [kevin's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [GodHad's workspace](http://supun.traditionalme.life)
 
 - 💬 Ask me about **TypeScript, Python, PHP, Node and CI/CD**
 
-- 📫 How to reach me **kevin.bigdream@gmail.com**
+- 📫 How to reach me **sunharius@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
