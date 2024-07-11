@@ -40,8 +40,6 @@
 
 - 💬 Ask me about **TypeScript, Python, PHP, Node and CI/CD**
 
-- 📫 How to reach me **sunharius@gmail.com**
-
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 <br>
