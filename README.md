@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋👋👋👋👋👋</h1>
 <h3 align="center">Full-Stack | Blockchain | Mobile Developer</h3>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
-</p>
-
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
