@@ -42,5 +42,5 @@
  
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GodHad&theme=dark)
  
- ![Trophy](https://github-profile-trophy.vercel.app/?username=GodHad&theme=gruvbox)
+ ##![Trophy](https://github-profile-trophy.vercel.app/?username=GodHad&theme=gruvbox)
 </div>
