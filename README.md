@@ -34,10 +34,12 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodHad&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GodHad&theme=dark)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=GodHad&theme=gruvbox)
+<div align="center">
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodHad&show_icons=true&theme=radical)
+ 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
+ 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GodHad&theme=dark)
+ 
+ ![Trophy](https://github-profile-trophy.vercel.app/?username=GodHad&theme=gruvbox)
+</div>
