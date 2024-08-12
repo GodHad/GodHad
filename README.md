@@ -34,15 +34,4 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **Devops**
-
-- 👨‍💻 All of my projects are available at [GodHad's workspace](http://supun.traditionalme.life)
-
-- 💬 Ask me about **TypeScript, Python, PHP, Node and CI/CD**
-
-- 📄 Know about my experiences [my experiences](https://justinschmidtech.vercel.app/)
-
-<br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">GODHAD</a></p>
