@@ -34,4 +34,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 (https://github-readme-stats.vercel.app/api?username=GodHad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GodHad&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GodHad&theme=dark)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=gruvbox)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
