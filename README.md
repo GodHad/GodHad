@@ -38,10 +38,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GodHad&theme=react-dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GodHad&theme=dark)
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=GodHad&theme=gruvbox)
