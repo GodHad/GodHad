@@ -31,4 +31,10 @@
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
  
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GodHad&theme=dark)
+ 
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maryamdnn&limit=5&theme=bear&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=maryamdnn&icon=5&color=6)](https://visitcount.itsvg.in)
 </div>
