@@ -30,7 +30,7 @@
  
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodHad?color=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodHad&theme=dark)](https://git.io/streak-stats)
  
  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GodHad&limit=5&theme=bear&combine_all_yearly_contributions=true)
