@@ -31,7 +31,7 @@
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodHad&theme=dark)](https://git.io/streak-stats)
- 
+ [![GodHad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark)](https://github.com/GodHad/github-readme-activity-graph)
  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GodHad&limit=5&theme=bear&combine_all_yearly_contributions=true)
 
