@@ -36,7 +36,7 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=GodHad" alt="GodHad" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=GodHad&count_private=true&show_icons=true&theme=algolia" alt="GodHad" /></a>
     </td>
     <td align="center" width="40%">
         <a href="#-my-github-stats--" target="_blank"><img alt="GodHad" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GodHad&theme=transparent" /></a>
