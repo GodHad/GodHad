@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-       [![GodHad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark)](https://github.com/GodHad)
+       [![GodHad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark)](https://github.com/GodHad/github-readme-activity-graph)
     </td>
   </tr>
 </table>
