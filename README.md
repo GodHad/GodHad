@@ -39,7 +39,7 @@
         <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=GodHad" alt="GodHad" /></a>
     </td>
     <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodHad&theme=transparent" alt="GodHad" /></a>
+       <a href="https://github.com/GodHad"><img src="https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark" alt="GodHad" />
     </td>
   </tr>
   <tr>
@@ -48,11 +48,6 @@
     </td>
     <td align="center" width="55%">
         <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=GodHad&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GodHad" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-       <a href="https://github.com/GodHad"><img src="https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark" alt="GodHad" />
     </td>
   </tr>
 </table>
