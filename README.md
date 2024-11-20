@@ -24,12 +24,36 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<div align="center">
- 
+ <div style="display: flex; align-items: center">
+  <h1> 
+    My GitHub Stats 
+    <a href="#-my-github-stats--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="40%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=goldsunshines" alt="goldsunshines" /></a>
+    </td>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goldsunshines&theme=transparent" alt="goldsunshines" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="40%">
+        <a href="#-my-github-stats--" target="_blank"><img alt="goldsunshines" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goldsunshines&theme=transparent" /></a>
+    </td>
+    <td align="center" width="55%">
+        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=goldsunshines&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="goldsunshines" /></a>
+    </td>
+  </tr>
+</table>
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodHad&show_icons=true&theme=radical)
- 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHad&layout=compact&theme=radical)
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodHad&theme=dark)](https://git.io/streak-stats)
+
  [![GodHad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark)](https://github.com/GodHad/github-readme-activity-graph)
 
