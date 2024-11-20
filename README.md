@@ -50,10 +50,13 @@
         <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=GodHad&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GodHad" /></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+       [![GodHad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark)](https://github.com/GodHad)
+    </td>
+  </tr>
 </table>
-
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodHad&show_icons=true&theme=radical)
 
- [![GodHad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodHad&theme=react-dark)](https://github.com/GodHad/github-readme-activity-graph)
+
 
