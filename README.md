@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋👋👋👋👋👋</h1>
-<h3 align="center">Full-Stack | Blockchain | Mobile Developer</h3>
+<h3 align="center">Full Stack | Mobile Developer</h3>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
